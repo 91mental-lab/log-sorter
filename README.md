@@ -2,7 +2,7 @@
 
 **Тестовое задание по сортировке лог-файлов для WorkMate**  
 
-##Краткое описание  
+## Краткое описание  
 
 В скрипте реализована сортировка информациии из файлов с расширением log.
 
@@ -38,5 +38,5 @@ python main.py --files example2.log, example1.log --report average --date 2025-0
   
 
 
-**Отчёт о покрытии тестами: **  
+**Отчёт о покрытии тестами:**  
 <img width="1121" height="335" alt="image" src="https://github.com/user-attachments/assets/fba25946-c186-4e03-b785-bf30d7f6782c" />
